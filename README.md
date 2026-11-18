@@ -9,6 +9,8 @@ SAP audit and implementation portfolio of [Nirmana ERP](https://nirmanaerp.com).
 - `/` — portfolio overview: audit, implementation and assurance
 - `/audit` — SAP PM audit pack: 20 checks, 13 domains, evidence, findings and remediation
 - `/method` — 28-week SAP Activate-aligned implementation method for FI, CO, PA, OM, time and payroll
+- `/pilot` — customer-connect and pilot request page
+- `/privacy` — privacy notice for the pilot form
 
 ## Run
 
@@ -24,6 +26,10 @@ npm run build
 ```
 
 The static export is written to `out/`.
+
+## Contact
+
+Dr. Santosh K Behera · [pilot@nirmanaerp.com](mailto:pilot@nirmanaerp.com)
 
 ## Downloads
 
