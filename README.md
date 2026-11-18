@@ -11,6 +11,7 @@ SAP audit and implementation portfolio of [Nirmana ERP](https://nirmanaerp.com).
 - `/method` — 28-week SAP Activate-aligned implementation method for FI, CO, PA, OM, time and payroll
 - `/pilot` — customer-connect and pilot request page
 - `/privacy` — privacy notice for the pilot form
+- `/portfolio` — handoff to the common Nirmana ERP portfolio page
 
 ## Run
 
