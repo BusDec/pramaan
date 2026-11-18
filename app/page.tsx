@@ -59,10 +59,16 @@ export default function HomePage() {
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Link
-                href="/audit"
+                href="/pilot"
                 className="inline-flex items-center gap-2 rounded-md bg-[var(--warn)] px-4 py-2.5 text-[13px] font-semibold text-[var(--graphite)]"
               >
-                Open SAP PM audit pack <ArrowRight className="h-4 w-4" />
+                Request a pilot <ArrowRight className="h-4 w-4" />
+              </Link>
+              <Link
+                href="/audit"
+                className="inline-flex items-center gap-2 rounded-md border border-line bg-surface px-4 py-2.5 text-[13px] font-semibold"
+              >
+                Open SAP PM audit pack
               </Link>
               <Link
                 href="/method"

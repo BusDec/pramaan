@@ -23,6 +23,9 @@ export function SimpleHeader() {
           <Link href="/method" className="hover:text-ink">
             Implementation
           </Link>
+          <Link href="/pilot" className="hover:text-ink">
+            Pilot
+          </Link>
           <a href="https://gearbox.nirmanaerp.com/" className="hover:text-ink">
             Gearbox
           </a>
